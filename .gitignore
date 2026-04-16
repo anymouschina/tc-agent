@@ -1,0 +1,6 @@
+node_modules
+dist
+.agents
+agents.config.json
+.env
+project-data
