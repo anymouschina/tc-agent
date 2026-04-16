@@ -2,6 +2,8 @@
 
 # 示例
  
- <a href="[https://github.com/anymouschina/TapCanvas](https://github.com/anymouschina/TapCanvas)">
-  使用示例
+<p align="center">
+  <a href="https://github.com/anymouschina/TapCanvas">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
